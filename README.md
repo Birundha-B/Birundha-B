@@ -1,7 +1,7 @@
-# Hi, I'm Bindhu 👋
+# Hi, I'm Birundha B 👋
 
 🎓 BE CSE Student | Passionate about learning, analyzing data, and solving problems.  
-💻 Exploring Python, Data Analytics, Machine Learning, and Web Development.  
+💻 Exploring Data structures and Algorithms, Data Analytics, Machine Learning, and Web Development.  
 
 ---
 
@@ -9,22 +9,21 @@
 
 ## 🛠 Skills
 
-**Programming Languages:** Python, C++, SQL, JavaScript, HTML, CSS  
+**Programming Languages:** Python, C,C++, SQL, JavaScript, HTML, CSS,JAVA 
 **Frameworks & Tools:** OpenCV, Pandas, Numpy, scikit-learn, YOLOv8  
-**Concepts:** Data Analytics, Machine Learning, Web Development, Object Detection  
+**Concepts:** Data Analytics, Machine Learning, Web Development
 
 ---
 
 ## 📈 GitHub Stats
 
-![Bindhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bindhu-b&show_icons=true&theme=radical)  
+![Birundha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Birundha-B&show_icons=true&theme=radical)  
 
 ---
 
 ## 📫 Contact Me
-
-- **LinkedIn:** [linkedin.com/in/bindhu](#)  
-- **Email:** bindhub@example.com  
+ 
+- **Email:** birundha9121@gmail.com  
 
 ---
 
