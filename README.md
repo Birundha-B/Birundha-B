@@ -1,8 +1,8 @@
 # Hi, I'm Birundha B
 
  BE CSE Student at Madras Institute of Technology  
- Passionate about **DSA, Full-Stack Development, Machine Learning, and NLP**  
- Quick learner with strong teamwork and problem-solving skills  
+ Passionate about **DSA, Full-Stack Development, Machine Learning**  
+ Quick learner with problem-solving skills  
 
 ---
 
