@@ -3,10 +3,6 @@
 <h3 align="center">BE CSE Student | DSA Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👩‍💻+Passionate+about+DSA;🚀+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;🌱+Lifelong+Learner;💡+Problem+Solver" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Birundha-B&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
