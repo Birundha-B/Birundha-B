@@ -43,10 +43,6 @@
 - 🏅 **Gold Badge in C++** – HackerRank  
 - 🧾 **SQL (Basic to Advanced)** Certification – HackerRank
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Birundha-B&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
