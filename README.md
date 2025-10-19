@@ -38,6 +38,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Birundha-B&layout=compact&theme=dark)
 
 ---
+## streak
+![Streak](https://img.shields.io/badge/streak-42-days-brightgreen)
+
 
 ## 📫 Contact Me
 
