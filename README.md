@@ -1,8 +1,8 @@
-# Hi, I'm Birundha B
+# Hi, I'm Birundha B 👋
 
- BE CSE Student at Madras Institute of Technology  
- Passionate about **DSA, Full-Stack Development, Machine Learning**  
- Quick learner with problem-solving skills  
+🎓 **BE CSE Student** at *Madras Institute of Technology*  
+💻 Passionate about **DSA, Full-Stack Development, and Machine Learning**  
+⚡ Quick learner with strong problem-solving skills
 
 ---
 
@@ -26,23 +26,44 @@
 
 ## 🏆 Achievements & Certifications
 
-- Solved **100+ problems** on LeetCode and Coding Ninjas  
-- **Gold Badge in C++** (HackerRank)  
-- Completed **SQL (Basic to Advanced)** Certification (HackerRank)  
+- 🥇 Solved **100+ problems** on LeetCode and Coding Ninjas  
+- 🏅 **Gold Badge in C++** (HackerRank)  
+- 🧾 Completed **SQL (Basic to Advanced)** Certification (HackerRank)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Birundha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Birundha-B&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Birundha-B&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Birundha-B&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birundha-B&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
-## streak
-![Streak](https://img.shields.io/badge/streak-42-days-brightgreen)
 
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Birundha-B&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Birundha-B&theme=github-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
 
 ## 📫 Contact Me
 
-- **Email:** birundha9121@gmail.com  
+- ✉️ **Email:** [birundha9121@gmail.com](mailto:birundha9121@gmail.com)
 
+---
+
+⭐ *“Consistency is what transforms average into excellence.”*
