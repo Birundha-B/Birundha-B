@@ -52,14 +52,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Birundha-B&theme=github-dark" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 - ✉️ **Email:** [birundha9121@gmail.com](mailto:birundha9121@gmail.com)
