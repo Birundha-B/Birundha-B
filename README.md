@@ -5,7 +5,6 @@
 
 ## 👩‍💻 About Me  
 - 🎓 BE Computer Science Engineering – Madras Institute of Technology  
-- 💻 Learning MERN Stack & Machine Learning  
 - ✨ Interested in development, problem-solving, and building projects  
 
 ---
