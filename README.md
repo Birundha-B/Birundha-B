@@ -1,30 +1,29 @@
+<div align="center">
+
 # Hi , I'm Birundha B
 
-### Final Year Computer Science Engineering Student | Aspiring Software Engineer
+### Passionate Computer Science student with a strong interest in Machine Learning, Artificial Intelligence, and Problem Solving. Experienced in building end-to-end projects using Python, C++, Machine Learning, and modern development tools. Currently focused on Data Structures & Algorithms, Core Computer Science subjects.
 
-Passionate Computer Science student with a strong interest in Machine Learning, Artificial Intelligence, and Problem Solving. Experienced in building end-to-end projects using Python, C++, Machine Learning, and modern development tools. Currently focused on Data Structures & Algorithms, Core Computer Science subjects.
+</div>
 
----
 
 ##  About Me
 
-* 🎓 Final Year Computer Science Engineering Student
-*  Interested in Software Development, AI, ML, and Backend Systems
-*  Currently learning Advanced DSA, System Design, and Large Language Models
-* 📫 Reach me at: **[birundha9121@gmail.com](mailto:birundha9121@gmail.com)**
+ Final Year Computer Science Engineering Student
 
----
+ Reach me at: **[birundha9121@gmail.com](mailto:birundha9121@gmail.com)**
+
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### Languages
 
-* C++
-* Python
-* Java
-* SQL
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge\&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge\&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge\&logo=mysql)
 
-### Core Subjects
+### Core CS
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
@@ -33,37 +32,18 @@ Passionate Computer Science student with a strong interest in Machine Learning, 
 * Computer Networks
 * Machine Learning
 
-### Tools & Technologies
+### Tools
 
-* Git & GitHub
-* VS Code
-* MySQL
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge\&logo=visual-studio-code)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
 
----
-
-##  GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Birundha-B\&show_icons=true\&theme=radical)
-
----
-
-##  GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Birundha-B\&theme=radical)
-
----
-
-##  Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Birundha-B\&layout=compact\&theme=radical)
-
----
-
-##  Featured Projects
+## Featured Projects
 
 ### AI Email Routing System
 
-* Intelligent email classification and routing system
+* Intelligent email classification and routing
 * Spam Detection using Machine Learning
 * Department Classification
 * Automated Routing Pipeline
@@ -72,12 +52,11 @@ Passionate Computer Science student with a strong interest in Machine Learning, 
 
 * Machine Learning-based traffic forecasting
 * Feature Engineering and Data Analysis
-* Achieved high prediction accuracy using ensemble models
+* High-accuracy predictive modeling
 
-
----
 
 ##  Connect With Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* Email: [birundha9121@gmail.com](mailto:birundha9121@gmail.com)
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge\&logo=gmail)](mailto:birundha9121@gmail.com)
+
+</div>
